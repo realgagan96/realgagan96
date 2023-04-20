@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realgagan96
 - 🌱 I’m currently learning Full stack dev
-- 💞️ I’m looking to collaborate on opensource or jr job 
+- 🤝 I’m looking to collaborate on opensource or jr job 
 - 📫 How to reach me "gaganxsingh007@gmail.com"
 
 <!---
