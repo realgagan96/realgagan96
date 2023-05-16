@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @realgagan96
-- 🌱 I’m currently learning Full stack dev
+- 👋 Hi, my name is Gagandeep Singh
+- 🌱 I’m currently learning Full stack developer at Hack Upstate
 - 🤝 I’m looking to collaborate on opensource or jr job 
 - 📫 How to reach me "gaganxsingh007@gmail.com"
 
